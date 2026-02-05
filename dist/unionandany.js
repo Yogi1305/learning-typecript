@@ -14,7 +14,7 @@ apiresponse = "success";
 console.log(apiresponse);
 apiresponse = "error";
 console.log(apiresponse);
-// any means variable can be of any type
+// any means variable can be of any type ,avoid using any as much as possible
 let any;
 any = "hello";
 console.log(any);
